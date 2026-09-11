@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: LicenseRef-Gas-Sponsorship-Commercial-License
 pragma solidity ^0.8.35;
 
 import {GasSponsor} from "../../src/GasSponsor.sol";

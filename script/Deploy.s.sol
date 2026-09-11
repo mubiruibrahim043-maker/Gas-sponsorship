@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: LicenseRef-Gas-Sponsorship-Commercial-License
 pragma solidity ^0.8.35;
 import {Script} from "forge-std/Script.sol";
 import {console2} from "forge-std/console2.sol";
