@@ -1,0 +1,205 @@
+GAS SPONSORSHIP COMMERCIAL LICENSE
+Version 1.0
+
+Copyright © 2026 Mubiru Ibrahim Urufat. All rights reserved.
+
+1. DEFINITIONS
+
+"Software" means the Gas Sponsorship Protocol v1 source code, smart
+contracts, scripts, tests, documentation, and other materials contained
+in this repository, except for third-party components that are separately
+licensed.
+
+"Licensor" means Mubiru Ibrahim Urufat.
+
+"Commercial Use" means any use of the Software that is intended to
+generate revenue, commercial benefit, fees, profit, or other financial
+benefit, whether directly or indirectly.
+
+"Commercial License" means a separate written license agreement granted
+by the Licensor permitting Commercial Use of the Software.
+
+2. PERMITTED USE
+
+Subject to the terms of this license, the Licensor permits the following
+uses without obtaining a separate Commercial License:
+
+- Viewing and inspecting the source code.
+- Studying the architecture and implementation.
+- Educational and academic research.
+- Security research and security review.
+- Testing and experimentation in non-commercial environments.
+- Personal learning and development.
+- Non-commercial portfolio presentation and evaluation.
+- Non-commercial modification of the Software.
+
+3. COMMERCIAL USE REQUIRES A SEPARATE LICENSE
+
+The following activities require prior written permission and a separate
+Commercial License from the Licensor:
+
+- Deploying the Software for a commercial business or service.
+- Operating the Software to generate revenue or commercial benefit.
+- Offering gas sponsorship services commercially using the Software.
+- Selling access to a service substantially based on the Software.
+- Selling, sublicensing, renting, leasing, or redistributing the
+  Software for commercial purposes.
+- Selling modified or derivative versions of the Software.
+- Incorporating substantial portions of the Software into a commercial
+  product or service.
+- Using the Software as a core component of a commercial protocol,
+  platform, application, or infrastructure.
+- Any other Commercial Use not expressly permitted under Section 2.
+
+Commercial rights are not granted merely by downloading, viewing,
+forking, copying, or modifying the Software.
+
+4. NON-COMMERCIAL MODIFICATIONS
+
+You may modify the Software for personal, educational, research,
+testing, or other non-commercial purposes.
+
+Any modified version intended for Commercial Use requires a separate
+Commercial License from the Licensor.
+
+5. THIRD-PARTY COMPONENTS
+
+Third-party libraries, dependencies, tools, and components included in
+or referenced by this repository remain subject to their respective
+licenses.
+
+In particular, third-party components such as OpenZeppelin Contracts and
+Foundry libraries are not relicensed by this document.
+
+6. SECURITY RESEARCH
+
+Security researchers may inspect, test, analyze, and report vulnerabilities
+in the Software for legitimate security research and responsible
+disclosure purposes.
+
+Nothing in this license grants permission to use the Software commercially
+as a result of conducting security research.
+
+7. BLOCKCHAIN AND SMART CONTRACT DISCLAIMER
+
+The Software consists of blockchain smart contracts and related software.
+
+Smart contracts are experimental software and may contain vulnerabilities,
+unexpected behavior, economic risks, implementation risks, blockchain
+network risks, or other technical risks.
+
+Deployment or use of the Software may result in permanent and irreversible
+loss of digital assets.
+
+The Software is provided for development, research, testing, and evaluation
+purposes unless separately licensed for commercial deployment.
+
+8. SECURITY AUDIT STATUS
+
+The repository contains a developer security review and formal verification
+artifacts.
+
+The security review is not an independent third-party security audit.
+
+No representation is made that the Software is free from vulnerabilities.
+
+An independent professional security audit is strongly recommended before
+using the Software with significant funds or in a production environment.
+
+The repository contains an immutable security report hash in the
+GasSponsor contract intended to allow verification of the referenced
+security report.
+
+9. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+
+THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE SECURE,
+UNINTERRUPTED, ERROR-FREE, OR SUITABLE FOR ANY PARTICULAR PURPOSE.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT
+BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+EXEMPLARY, OR OTHER DAMAGES ARISING FROM OR RELATED TO THE USE,
+DEPLOYMENT, MODIFICATION, OR INABILITY TO USE THE SOFTWARE.
+
+THIS INCLUDES, WITHOUT LIMITATION, LOSS OF DIGITAL ASSETS, LOSS OF FUNDS,
+LOSS OF PROFITS, LOSS OF DATA, SMART CONTRACT FAILURES, TRANSACTION
+FAILURES, SECURITY INCIDENTS, OR BLOCKCHAIN NETWORK EVENTS.
+
+11. TERMINATION
+
+Any rights granted under this license terminate automatically if the terms
+of this license are violated.
+
+Upon termination, all unauthorized Commercial Use must immediately cease.
+
+Rights granted for legitimate security research, criticism, or other uses
+that cannot lawfully be restricted remain subject to applicable law.
+
+12. NO TRANSFER OF COMMERCIAL RIGHTS
+
+No commercial rights are transferred through:
+
+- Downloading the repository.
+- Forking the repository.
+- Creating a copy of the repository.
+- Creating a derivative work for non-commercial purposes.
+- Publishing non-commercial research concerning the Software.
+
+Commercial rights must be expressly granted by the Licensor in writing.
+
+13. FUTURE VERSIONS
+
+Future versions of the Gas Sponsorship Protocol may be released under
+different licensing terms.
+
+This license applies only to the version of the Software distributed
+under this license.
+
+14. CONTACT
+
+For commercial licensing, acquisition, partnerships, or integration:
+
+Mubiru Ibrahim Urufat
+
+WhatsApp:
++256 700603705
+
+GitHub:
+mubiruibrahim043-maker
+
+15. COPYRIGHT
+
+Copyright © 2026 Mubiru Ibrahim Urufat. All rights reserved.
+
+Unauthorized Commercial Use, distribution, sublicensing, or resale of
+the Software is prohibited unless expressly authorized by a separate
+written Commercial License from the Licensor.
+
+16. COMMERCIAL RIGHTS ACQUISITION
+
+The Licensor may grant commercial rights to individuals, companies,
+protocols, organizations, or other entities through a separate written
+Commercial License Agreement.
+
+A commercial buyer may negotiate rights including, but not limited to:
+
+- permission to deploy the protocol;
+- permission to use the protocol in a commercial product;
+- modification rights;
+- integration rights;
+- redistribution rights;
+- support and maintenance agreements;
+- exclusive or non-exclusive usage rights;
+- geographic or network-specific deployment rights.
+
+The scope, duration, price, and conditions of commercial rights are
+determined through a separate agreement between the Licensor and the
+buyer.
+
+Purchase of commercial rights does not automatically transfer ownership
+of the original intellectual property unless expressly agreed in writing.
